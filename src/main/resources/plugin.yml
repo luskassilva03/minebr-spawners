@@ -1,0 +1,11 @@
+name: minebr-spawners
+main: net.minebr.spawners.SpawnersMain
+version: 1.0
+author: MrGuriBR_
+commands:
+  miniatureadmin:
+    aliases:
+      - miniature
+  killstack:
+    aliases:
+      - stackkill

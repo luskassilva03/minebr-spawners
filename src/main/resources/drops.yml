@@ -1,0 +1,6 @@
+miniatures:
+  Dash:
+    price1:
+      provider: money
+      price: 7.3
+      name: 'drop do dash'

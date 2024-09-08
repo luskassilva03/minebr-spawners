@@ -1,0 +1,20 @@
+item:
+  material: '120:0'
+  name: '&6&lG&6erador de &6&lM&6iniaturas'
+  lore:
+    - '&f&l  ❘ &7Miniaturas são geradas a cada x tempo'
+    - '&f&l  ❘ &7Você pode usá-los para farmar'
+    - '&f&l  ❘ &7E vender os drops em troca de moedas.'
+    - ''
+    - '&8&l     ▸ &fTipo de Miniatura&7: {miniature}'
+    - '&8&l     ▸ &fGeradores Agrupados&7: {amount}x'
+    - ''
+    - '&eColoque-os em seu Terreno.'
+miniatures:
+  Dash:
+    size: 1 #Tamanho do armorstand (1 = Pequeno | 2 = Grande)
+    name: '&e{stack}x Dash' #Nome sobre a cabeça da miniatura
+    head: 'http://textures.minecraft.net/texture/66b2fa216b7cdc9479277f57384ff36212427b67fab6cfd2c6cc0ffa7c9d8d20'
+    #Definir a cor da armadura da Miniatura, cores possíveis: White, Black, Red, Green, Blue, Yellow, Orange, Purple, Cyan, Pink
+    colors: Green
+    dropPrice: 0.5
